@@ -1,2 +1,0 @@
-# resume
-Prime Academy application
